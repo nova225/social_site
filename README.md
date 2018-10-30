@@ -5,4 +5,4 @@ Working:
   -adding and removing friends, 
   -making and retrieving posts on newsfeed visible to friends lists.
 
-First project as part of an Udemy course designed to create a working social-media website such as Facebook, completely from scratch. I used this as an overview of what is actually needed to make a complex working website. Since, I've learned other ways created to ease and simplify website development.
+First project as part of an Udemy course designed to create a working social-media website such as Facebook, completely from scratch. I used this as an overview of what is actually needed to make a complex working website. Since, I've learned other ways created to ease and simplify website development. I am using XAMPP to setup a local webserver and MySQL database.
